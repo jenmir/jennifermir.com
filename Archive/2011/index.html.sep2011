@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta http-equiv="Content-Language" content="en-gb" /><title>Welcome!</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="menu.css" />
+<!-- this template was designed by http://www.tristarwebdesign.co.uk - please visit for more templates & information - thank you. --><!-- style sheet links -->
+</head>
+
+
+
+
+<body>
+<div id="centrecontainer">
+<div id="outercontainer">
+<div id="header">
+<div id="navcontainer">
+<ul id="navlist">
+<li><a title="link five" href="contact.html">contact</a></li>
+<li><a title="link four" href="sights.html">sights</a></li>
+<li><a title="link three" href="sounds.html">sounds</a></li>
+<li><a title="link two" href="calendar.html">calendar</a></li>
+<li><a title="link one" href="bio.html">bio</a></li>
+<li><a title="link zero" href="index.html">home</a></li>
+</ul>
+</div>
+</div>
+<div id="container">
+<div id="containerleft">
+<h2></h2>
+</div>
+<div id="containerright">
+<h2 style="font-family: Calibri;"><small>J. Mir</small></h2>
+<p>Welcome to JenniferMir.com. I am a musician based in the San
+Francisco Bay area specializing in woodwinds - clarinet, sax and
+flute. &nbsp;In addition to session work, studio work and playing
+in a few bands, I also host/manage the following sites:</p>
+<h2 style="font-family: Calibri;"><small><a href="http://jamthebay.com" target="_blank">Jam The
+Bay&nbsp;</a> </small></h2>
+<br />
+JamTheBay.com is a portal for all things related to jam sessions in the
+Bay Area. We review and list local blues, rock and jazz "open"
+sessions, with special emphasis on letting horn players know where they
+are the most welcome.<br />
+<br />
+<h2 style="font-family: Calibri; font-weight: bold;"><small><a href="http://conjuntopicante.com" target="_blank">Conjunto
+Picante</a>&nbsp;</small></h2>
+<br />
+ConjuntoPicante.com "Premier Salsa Dura" is an 11-piece
+hard-salsa&nbsp;band led by bandleader and composer Tony "DJ Tony"
+Rodriguez, and where I perform regularly on sax and flute and
+occasionally help out with horn arrangements. <br />
+<br />
+I have also worked previously with Peninsula Girls Chorus (guest
+clarinet soloist), Stage 1 Theatre (pit clarinet, bass clarinet, sax),
+Ray of Light Theatre (pit clarinet), Redwood City Symphony (Eb clarinet
+soloist), San Jose Children's Theatre (pit clarinet, bass
+clarinet),&nbsp; and many other fine orchestras, bands and players.
+<br />
+<br />
+</div>
+</div>
+<div id="footer">
+<div style="text-align: left;"><small> &nbsp;design
+by <a title="derby web design" href="http://www.tristarwebdesign.co.uk">tri-star web design
+&nbsp;&nbsp;</a></small></div>
+<small> </small></div>
+</div>
+</div>
+</body></html>
+

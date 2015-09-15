@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta http-equiv="Content-Language" content="en-gb" /><title>Calendar</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<link rel="stylesheet" type="text/css" href="style4.css" />
+<link rel="stylesheet" type="text/css" href="menu.css" /></head>
+<body>
+<div id="centrecontainer">
+<div id="outercontainer">
+<div id="header">
+<div id="navcontainer">
+<ul id="navlist">
+<li><a title="link five" href="contact.html">contact</a></li>
+<li><a title="link four" href="sights.html">sights</a></li>
+<li><a title="link three" href="sounds.html">sounds</a></li>
+<li><a title="link two" href="calendar.html">calendar</a></li>
+<li><a title="link one" href="bio.html">bio</a></li>
+<li><a title="link zero" href="index.html">home</a></li>
+</ul>
+</div>
+</div>
+<div id="container">
+<div id="containerleft">
+<h2></h2>
+</div>
+<div id="containerright">
+<h2 style="font-family: Calibri;"><small>Calendar</small></h2><br />Thu Sep 22 with Slippery Slope, Cafe Van Kleef, Oakland<br /><br />Fri Oct 21 with Chick Jagger &amp; Sticky Fingers, Rockit Room, SF<br /><br />Sat Nov 12 with Slippery Slope, 50 Mason Social House, SF<br />
+<br />
+with Millville Plains<br />
+first Wednesdays @ Cheers, Pacifica<br /><br /><br /><br />____________________________________<br /><small>history....<br /><br />with Chick Jagger &amp; Sticky Fingers, Sat Apr 23, 2011<a href="http://www.theshowroomsf.com/">. The Showroom</a>, 1000 Van Ness, SF<br />with Redwood Wires, Sun Apr 24, 2011<a href="http://www.kimosbarsf.com/">, Kimo's</a>, SF<br />with Conjunto Picante: CD Release Event, Sat Jun 4, 2011<a href="http://discovolanteoakland.com">, Disco Volante</a>, Oakland<br />with Redwood Wires, Thu Jun 23, 2011, Sub Mission, SF<br />with Chick Jagger &amp; Sticky Fingers Fri Jul 29, 2011<a href="http://www.rock-it-room.com/"> Rockit Room</a>, SF</small><small><br />Tue Aug 2 with Redwood Wires, Grant &amp; Green SF<br />Aug 4-7&nbsp; Pit Show in Berkeley<br />Fri Aug 19 with Chick Jagger &amp; Sticky Fingers, 1400 Bar &amp; Grill, Alameda<br />Tue Aug 23 with Redwood Wires, El Rio, SF<br />Tue Aug 30 with Slippery Slope, Yoshi's, SF</small><br />
+<br /><br />
+<br />
+<br />
+</div>
+</div>
+<div id="footer">
+<div style="text-align: left;"><small>&nbsp;design
+by <a title="derby web design" href="http://www.tristarwebdesign.co.uk">tri-star web design
+&nbsp;&nbsp;</a></small></div>
+<small> </small></div>
+</div>
+</div>
+</body></html>

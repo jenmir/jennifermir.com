@@ -1,0 +1,18 @@
+This dir contains jmir's version of the exercies from NODE.js class. 
+The initial delivery is:
+
+Procfile                 event_emitter.js         package.json
+README.md                examplefile.txt          preprocessing_server.js
+actionHero.js            filewrite.js             racecondition.js
+basic_ip_tracker.js      form_handler.js          racecondition_fixed.js
+basic_server.js          helloworld               server.js
+basic_server_example.js  helloworld.js            template_compiler.js
+contactdata.txt          intrusions.txt           template_exercise.js
+debug1                   login_template_new.html  template_exercise.js.backup
+debugdump.txt            multi_server.js          templates
+debugdump_saadmir.txt    node_modules             useraccounts.txt
+duplicate1               noperm
+
+all others have been added afterward.
+j.m.
+

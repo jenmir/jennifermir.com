@@ -1,0 +1,18 @@
+{
+  "name": "basic-app",
+  "version": "0.1.0",
+  "dependencies": {
+    "underscore": "1.4.x"
+  },
+  "description": "There are a couple of things you should do first, before you can use all of Git's power:",
+  "main": "basic_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "jm"
+  ],
+  "author": "",
+  "license": "BSD"
+}

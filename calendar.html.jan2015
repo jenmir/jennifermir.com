@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta http-equiv="Content-Language" content="en-gb" /><title>Calendar</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<link rel="stylesheet" type="text/css" href="style4.css" />
+<link rel="stylesheet" type="text/css" href="menu.css" /></head>
+<body>
+<div id="centrecontainer">
+<div id="outercontainer">
+<div id="header">
+<div id="navcontainer">
+<ul id="navlist">
+<li><a title="link five" href="contact.html">contact</a></li>
+<li><a title="link four" href="sights.html">sights</a></li>
+<li><a title="link three" href="sounds.html">sounds</a></li>
+<li><a title="link two" href="calendar.html">calendar</a></li>
+<li><a title="link one" href="bio.html">bio</a></li>
+<li><a title="link zero" href="index.html">home</a></li>
+</ul>
+</div>
+</div>
+<div id="container">
+<div id="containerleft">
+<h2></h2>
+</div>
+<div id="containerright">
+<h2 style="font-family: Calibri;"><small>Calendar</small></h2><big><br /></big><br />Sat Oct 4 - Conjunto Picante, private event in SF<br />Sat Oct 11 - Zanzibar, Club Fox, Redwood City<br />Nov 8 - Chick Jagger, Benders, SF<br />Nov 12 - Zanzibar, CSM Showcase, San Mateo<br />Nov 14 - Chick Jagger, Peri's, Fairfax<br />Nov 22 - Conjunto Picante, Private Event, Oakland &nbsp;<br />Dec 7 - Chick Jagger, Private Event @ Lennon, SF<br />Dec 12 - Chick Jagger, Castle Rock Ale House, Livermore<br />Dec 17 - CCSF Charanga Ensemble, class performance<br />Dec 19 - CCSF Charanga Ensemble, private event<br /><br />____________________________________<br /><small>history...<br />-- 2014 -- <br />Sat Sep 6 - Chick Jagger, Lennon Studios 30th Anniv Celebration<br />Sat Sep 13 - The Special Guests, Half Moon Bay Brewing<br />Fri Jul 25 - Zanzibar, King's Beach @ Tahoe<br />Jun 14 - Conjunto Picante, Pedro's Cantina, SF<br />Sat May 3 - Conjunto Picante, SF Cinco de Mayo Festival<br />May 9,10, 18 - Chorus show, San Rafael<br />Thur Apr 17 - Conjunto Picante, Pedro's Cantina, SF<br />Fri Apr 4 - The Slippery Slope, Jerry's Front Pocket, Santa Cruz<br /></small><small>Tue Apr 1 - The Slippery Slope, Boom Boom Room, SF</small><br /><small>Sat Mar 8 - The Special Guests, HMB Brewing Company<br />Fri Feb 14 - The Slippery Slope, Marilyn's on K, Sacramento<br />Fri Feb 7 - The Slippery Slope, Uptown, Oakland</small><br /><small>Fri Jan 24 - Connunto Picante, Cigar Bar, SF<br />--- 2013 ---<br />Sat Nov 16, 2013 - Conjunto Picante, Cigar Bar, SF<br />Wed Nov 13, 2013 - The Slippery Slope, Boom Boom Room, SF<br />Sat Nov 2, 2013 - The Slippery Slope, Marilyn's on K, Sacramento<br />Thu Oct 31, 2013 - The Slippery Slope, Jerry's Front Pocket, Santa Cruz <br />Fri Oct 4, 2013 - The Slippery Slope, Bottom of fhe Hill, SF<br />Sat Sep 28, 2013 - Conjunto Picante, Cigar Bar, SF<br />Wed Sep 25, 2013 - The Slippery Slope, Julian's, Hayward<br />Wed Sep 11, 2013 - The Slippery Slope, Julian's, Hayward <br />Fri Aug 9, 2013&nbsp; The Slippery Slope, Cafe Du Nord, SF<br />Sun Jul 28, 2013&nbsp; The Slippery Slope, Starry Plough, Berkeley<br />Sat Jul 17, 2013&nbsp; The Slippery Slope, Amnesia, 853 Valencia, SF</small><br /><small>Wed May 22, 2013 The Slippery Slope, Tupelo, SF</small><br /><small>Fri May 10, 2013 Conjunto Picante, College of San Mateo "Roots of Salsa" </small><br /><small>Sat May 4, 2013&nbsp; Conjunto Picante, SF Cinco De Mayo<br />Sat May 4, 2013&nbsp; Redwood Wires, Abbey Tavern, SF<br /></small><small>Sat Apr 27, 2013 The Slippery Slope, SF</small><br /><small>Mar-Apr 2013 - Pit Show, Berkeley<br />Fri Mar 1, 2013 &nbsp;Redwood Wires, Starry Plough, Berkeley</small><br /><small>Sat Feb 16, 2013 &nbsp;Conjunto Picante, Cigar Bar, SF</small><br /><small>Tue Jan 22, 2013 &nbsp;Redwood Wires, Bottom of the Hill, SF</small><br /><small>Fri Jan 25, 2013&nbsp; Chick Jagger, Benicia<br />Sat Jan 19, 2013&nbsp; Conjunto Picante, Private Event<br />Sat Dec 14, 2012 - The Slippery Slope, Night Light, Oakland<br />Dec 7-9 - Holiday Show, San Rafael<br />Sat Nov 24, 2012&nbsp; Conjutno Picante, Cigar Bar, SF<br />Tue Oct 30, 2012 &nbsp;Redwood Wires, El Rio, SF<br />Wed Oct 24, 2012 &nbsp;Redwood Wires, Boom Boom Room, SF<br />Sun Sep 30, 2012 &nbsp;The Slippery Slope, Yoshis's SF<br />Tue Sep 25, 2012 &nbsp;Redwood Wires, Bottom of the Hill, SF<br />Sat Sep 15, 2012 &nbsp;The Slippery Slope, 50 Mason, SF<br />Sat Set 15, 2012 &nbsp;The Slippery Slope,&nbsp;Night Light Oakland<br />Fri Sep 7, 2012 &nbsp;Redwood Wires, Abbey Tavern, SF<br />Sat Sep 1, 2012 &nbsp;The Slippery Slope, Night Light, Oakland<br />Thu Jul 26, 2012&nbsp; The Slippery Slope, Amensia<br />Sat Jul 21, 2012&nbsp; Conjunto Picante, Cigar Bar<br />Fri Jul 20, 2012&nbsp; Chick Jagger, Red Devil<br />Sat Jul 14, 2012&nbsp; The Slippery Slope, Townhouse, Sacramento<br />Thu Jun 14, 2012&nbsp; The Slippery Slope, Bottom Of The Hill<br />Sat Jun 9 - with Chick Jagger, Club Fox, RWC<br />Fri Jun 1 - with Conjunto Picante, Cigar Bar<br />Sat May 5 - with Conjunto Picante, private event <br />Sat May 5 - with Conjunto Picante, Cinco de Mayo SF @ dolores park<br />Sat May 5 - with Redwood Wires, Thee Parkside, SF<br />Sat Apr 28 - with The Slippery Slope, 50 Mason, SF<br />Sat Apr 14 - with Conjunto Picante, Cigar Bar, SF<br />Fri Apr 13 - with Chick Jagger &amp; Sticky Fingers, Thee Parkside, SF<br />Sun Mar 11 - with Redwood Wires, Hotel Utah<br />Sat Mar 10 - with The Slippery Slope, Amnesia<br />Feb 25 - with Chick Jagger &amp; the Sticky Fingers, Rockit Room, SF<br />Feb 4 - with Slippery Slope, 50 Mason, SF<br />Jan 21 - with Conjunto Picante, SF benefit<br />2011--------------<br /></small><small>Fri Dec 16, 2011, with Redwood Wires, private event, SF<br />Fri Dec 9, 2011, with The Slippery Slope, 50 Mason, SF<br />Fri Dec 2, 2011 with Conjunto Picante, Cigar Bar, SF<br />Nov 4-13 Pit show, Canada College<br />Fri Oct 21 with Chick Jagger &amp; Sticky Fingers, Rockit Room, SF</small><br /><small>Thu Sep 22 with Slippery Slope, Cafe Van Kleef, Oakland</small><br /><small>Tue Aug 30 with Slippery Slope, Yoshi's, SF</small><br /><small>Tue Aug 23 with Redwood Wires, El Rio, SF<br /></small><small>Fri Aug 19 with Chick Jagger &amp; Sticky Fingers, 1400 Bar &amp; Grill, Alameda<br /></small><small>Aug 4-7&nbsp; Pit Show in Berkeley<br /></small><small>Tue Aug 2 with Redwood Wires, Grant &amp; Green SF</small><br /><small>with Chick Jagger &amp; Sticky Fingers Fri Jul 29, 2011<a href="http://www.rock-it-room.com/"> Rockit Room</a>, SF</small><small><br /></small><small>with Redwood Wires, Thu Jun 23, 2011, Sub Mission, SF</small><br /><small>with Conjunto Picante: CD Release Event, Sat Jun 4, 2011<a href="http://discovolanteoakland.com/">, Disco Volante</a>, Oakland</small><br /><small>with Redwood Wires, Sun Apr 24, 2011<a href="http://www.kimosbarsf.com/">, Kimo's</a>, SF</small><br /><small>with Chick Jagger &amp; Sticky Fingers, Sat Apr 23, 2011<a href="http://www.theshowroomsf.com/">. The Showroom</a>, 1000 Van Ness, SF<br /><br /><br /></small><small><br /></small>
+<br />
+<br />
+<br />
+</div>
+</div>
+<div id="footer">
+<div style="text-align: left;"><small>&nbsp;design
+by <a title="derby web design" href="http://www.tristarwebdesign.co.uk">tri-star web design
+&nbsp;&nbsp;</a></small></div>
+<small> </small></div>
+</div>
+</div>
+</body></html>

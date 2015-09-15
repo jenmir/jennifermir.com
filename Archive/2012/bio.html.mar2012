@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta http-equiv="Content-Language" content="en-gb" /><title>Bio</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<link rel="stylesheet" type="text/css" href="style2.css" />
+<link rel="stylesheet" type="text/css" href="menu.css" />
+</head>
+<body>
+<div id="centrecontainer">
+<div id="outercontainer">
+<div id="header">
+<div id="navcontainer">
+<ul id="navlist">
+<li><a title="link five" href="contact.html">contact</a></li>
+<li><a title="link four" href="sights.html">sights</a></li>
+<li><a title="link three" href="sounds.html">sounds</a></li>
+<li><a title="link two" href="calendar.html">calendar</a></li>
+<li><a title="link one" href="bio.html">bio</a></li>
+<li><a title="link zero" href="index.html">home</a></li>
+</ul>
+</div>
+</div>
+<div id="container">
+<div id="containerleft">
+<h2></h2>
+</div>
+<div id="containerright">
+<p>I
+am originally from the Great State of Texas and a proud alumni of
+Duncanville HS band, directed by Tom Shine (retired). My
+earliest training was on classical piano, followed by classical
+clarinet (State Solo &amp; Ensemble, All-Region) and contrabass
+clarinet (All-Region).</p>
+I addition to various orchestral, chamber, small combo, studio and
+other work, I am also a former music teacher with Orff-Schulwerk Level
+1 certification from Mills College.&nbsp;I
+taught private lessons on piano and clarinet, and General Music K-4 in
+the San Rafael Public School system. <br />
+<br />
+My favorite clarinet repertoire includes Schumann, Brahms, Weber,
+Debussy, Saint-Saëns, Milhaud. I am an active player on sax for several
+local bands,
+playing rock, blues, latin jazz, salsa, and pop covers and original
+music. In addition, I currently study flute with Carmen Lemoine, a
+doctoral flute candidate at Eastman.<br />
+<br />
+<br />
+</div>
+</div>
+<div id="footer">
+<div style="text-align: left;"><small>&nbsp;design
+by <a title="derby web design" href="http://www.tristarwebdesign.co.uk">tri-starweb design
+&nbsp;&nbsp;</a></small></div>
+<small> </small></div>
+</div>
+</div>
+</body></html>
